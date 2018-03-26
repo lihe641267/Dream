@@ -12,11 +12,11 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Gallery gallery;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
 
 
